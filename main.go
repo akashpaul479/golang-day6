@@ -1,6 +1,8 @@
 package main
 
-import "day6/day6"
+import (
+	"day6/day6/miniproject"
+)
 
 func main() {
 	// day6.Method()
@@ -12,5 +14,7 @@ func main() {
 	// day6.Account()
 	// day6.Interface()
 	// day6.Animalsinterface()
-	day6.Vehicleinterface()
+	// day6.Vehicleinterface()
+	// day6.Shapeareacalculator()
+	miniproject.Shapecalculator()
 }
